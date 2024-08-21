@@ -1,0 +1,1 @@
+#A simple clone of the Gemini website built with HTML, CSS, and JavaScript. This project replicates the basic structure and design of the Gemini site to demonstrate front-end development skills.
